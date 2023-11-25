@@ -27485,7 +27485,7 @@ column[alignment="bottom"]{
     bottom: 0;
     left: 0;
     pointer-events: none;
-    background: linear-gradient(60deg, #6a04e4, #d5b1ff);
+    background: linear-gradient(60deg, #888888, #DDDDDD);
 
     mix-blend-mode: lighten;
   }
